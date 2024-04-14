@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iss4gerry
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning Web3
+- 😄 Pronouns: gerry/mayu
