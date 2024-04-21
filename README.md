@@ -11,14 +11,9 @@ Feel free to connect with me @iss4gerry for all things tech or just to say hello
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🛠 &nbsp; I am a student at Bandung University of Technology.
+- 🚀 &nbsp; I’m I am interested in Web3.
 - 📫 &nbsp; Reach me out: gerrydesrian488@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 
 ### Languages and Tools:
 
