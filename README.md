@@ -7,7 +7,7 @@
 
 Feel free to connect with me @iss4gerry for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/pixel-art-arial-cardinal-bird-N5B19awm2YvwMwf8JE" />
+
 
 ### Talking about Personal Stuff:
 
