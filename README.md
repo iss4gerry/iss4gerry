@@ -7,7 +7,7 @@
 
 Feel free to connect with me @iss4gerry for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://giphy.com/explore/anime-pixel-art" />
 
 ### Talking about Personal Stuff:
 
@@ -32,7 +32,6 @@ Feel free to connect with me @iss4gerry for all things tech or just to say hello
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iss4gerry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iss4gerry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
@@ -40,7 +39,7 @@ Feel free to connect with me @iss4gerry for all things tech or just to say hello
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iss4gerry&hide_border=true" />
 </details>
 
 <details>
