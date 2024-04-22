@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-Feel free to connect with me @iss4gerry for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me.
 
 
 
