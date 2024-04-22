@@ -28,7 +28,6 @@ Feel free to connect with me.
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iss4gerry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
