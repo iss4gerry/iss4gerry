@@ -7,8 +7,6 @@
 
 Feel free to connect with me.
 
-
-
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I am a student at Bandung University of Technology.
