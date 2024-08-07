@@ -10,7 +10,6 @@ Feel free to connect with me.
 ### Talking about Personal Stuff:
 
 - 🎓 &nbsp; I am a student at Bandung University of Technology. 
-- 🚀 &nbsp; I am interested in Web3.
 - 📫 &nbsp; Reach me out: gerrydesrian488@gmail.com.
 
 ### Languages and Tools:
