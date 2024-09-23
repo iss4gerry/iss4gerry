@@ -21,6 +21,7 @@ Feel free to connect with me.
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap"></code>
 <code><img height="27" src="https://skillicons.dev/icons?i=vue" alt="vue"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
