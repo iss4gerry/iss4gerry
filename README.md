@@ -13,7 +13,6 @@ Feel free to connect with me.
 - 📫 &nbsp; Reach me out: gerrydesrian488@gmail.com.
 
 ### Languages and Tools:
-
 <code><img height="27" src="https://skillicons.dev/icons?i=js" alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></code>
 <code><img height="27" src="https://skillicons.dev/icons?i=ts" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -29,6 +28,7 @@ Feel free to connect with me.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"></code>
 
   <b>⚡ Github Stats</b>
   <br />
