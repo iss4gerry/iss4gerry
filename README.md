@@ -18,6 +18,7 @@ Feel free to connect with me.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg" alt="bunjs"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react"></code>
 <code><img height="27" src="https://skillicons.dev/icons?i=vue" alt="vue"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html"></code>
