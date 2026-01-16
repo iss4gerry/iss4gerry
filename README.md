@@ -5,11 +5,6 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) 
   
 Feel free to connect with me. 
-  
-### Talking about Personal Stuff:
-
-- 🎓 &nbsp; I am a student at Bandung University of Technology. 
-- 📫 &nbsp; Reach me out: gerrydsrn@gmail.com.
 
 ### Languages and Tools:
 <code><img height="27" src="https://skillicons.dev/icons?i=js" alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></code>
