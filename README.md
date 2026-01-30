@@ -31,12 +31,7 @@ Feel free to connect with me.
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"></code>
 
-  <b>⚡ Github Stats</b>
-  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iss4gerry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-  
-#
 
 <div align="center">
 
