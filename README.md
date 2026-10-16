@@ -15,7 +15,7 @@ feel free to hit me up. always down to connect, build, or talk about random inte
 ### Languages and Tools:
 <code><img height="27" src="https://skillicons.dev/icons?i=js" alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></code>
 <code><img height="27" src="https://skillicons.dev/icons?i=ts" alt="typescript"></code>
-<!-- <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="solidity"></code> -->
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="solidity"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bun-Dark.svg" alt="bunjs"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express"></code>
@@ -39,12 +39,10 @@ feel free to hit me up. always down to connect, build, or talk about random inte
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"></code>
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iss4gerry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-
 <div align="center">
 
 #
 
-### found something cool? drop a star. internet points matter. ★
+### found something cool? drop a star.
 
 </div>
