@@ -1,10 +1,16 @@
-## Hey there 👋, I'm [Gerry!](https://github.com/iss4gerry)  
- 
+## yo, i'm [gerry](https://github.com/iss4gerry) 👋
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iss4mayu/)
-   
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) 
-  
-Feel free to connect with me. 
+
+### just another dev on the internet. &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+
+backend by trade. degen by nature.
+
+i build stuff, break stuff, and occasionally figure out what i'm doing.
+
+not here to change the world. just making cool shit along the way.
+
+feel free to hit me up. always down to connect, build, or talk about random internet things.
 
 ### Languages and Tools:
 <code><img height="27" src="https://skillicons.dev/icons?i=js" alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></code>
@@ -33,12 +39,12 @@ Feel free to connect with me.
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"></code>
 
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iss4gerry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iss4gerry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 
 <div align="center">
 
- #
- 
-### Show some ❤️ by starring some of the repositories!
+#
+
+### found something cool? drop a star. internet points matter. ★
 
 </div>
