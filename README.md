@@ -4,8 +4,6 @@
 
 ### just another dev on the internet. &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-backend by trade. degen by nature.
-
 i build stuff, break stuff, and occasionally figure out what i'm doing.
 
 not here to change the world. just making cool shit along the way.
