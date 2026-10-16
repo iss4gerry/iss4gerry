@@ -10,7 +10,7 @@ not here to change the world. just making cool shit along the way.
 
 feel free to hit me up. always down to connect, build, or talk about random internet things.
 
-### Languages and Tools:
+### languages and tools:
 <code><img height="27" src="https://skillicons.dev/icons?i=js" alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></code>
 <code><img height="27" src="https://skillicons.dev/icons?i=ts" alt="typescript"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="solidity"></code>
