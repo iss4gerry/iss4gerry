@@ -40,7 +40,7 @@ feel free to hit me up. always down to connect, build, or talk about random inte
 <div align="center">
 
 #
--->
-### found something cool? drop a star.
 
+### found something cool? drop a star.
+-->
 </div>
