@@ -9,7 +9,7 @@ i build stuff, break stuff, and occasionally figure out what i'm doing.
 not here to change the world. just making cool shit along the way.
 
 feel free to hit me up. always down to connect, build, or talk about random internet things.
-
+<!-- 
 ### languages and tools:
 <code><img height="27" src="https://skillicons.dev/icons?i=js" alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></code>
 <code><img height="27" src="https://skillicons.dev/icons?i=ts" alt="typescript"></code>
@@ -40,7 +40,7 @@ feel free to hit me up. always down to connect, build, or talk about random inte
 <div align="center">
 
 #
-
+-->
 ### found something cool? drop a star.
 
 </div>
